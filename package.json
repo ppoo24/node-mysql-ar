@@ -1,0 +1,34 @@
+{
+	"name": "mysql_ar",
+	"description": "A active record wrapper that using node-mysql, and is 100% MIT licensed.",
+	"version": "0.1.0-alpha",
+	"license": "MIT",
+	"author": {
+		"name": "Wilson Zeng",
+		"email": "jackzcs@gmail.com",
+		"url": "http://zx250.com/"
+	},
+	"contributors": [],
+	"homepage": "https://github.com/ppoo24/node-mysql-ar",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ppoo24/node-mysql-ar"
+	},
+	"main": "./index",
+	"scripts": {
+		"test": "node test/run.js"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"engines": {
+		"node": ">= 0.8"
+	},
+	"readmeFilename": "README.md",
+	"bugs": {
+	},
+	"dist": {
+
+	}
+}
